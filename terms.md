@@ -24,7 +24,13 @@ Wallpaper approval confirms a shared image choice, not permission to alter eithe
 
 Internet access, device support, iOS permissions and service-provider availability affect features. Widgets refresh on iOS’s schedule; maps, GPS, background updates and notifications are not guaranteed to be immediate or continuous. Do not use Couple for emergency assistance, safety-critical monitoring or guaranteed location tracking. Upload and rate limits may apply to protect the service.
 
-This build does not offer purchasable subscriptions or ad-unlocked features. Pro screens are previews or unavailable states, not a purchase. Any future paid offering will disclose its terms before purchase; these terms do not authorize a charge.
+## Couple Pro
+
+Distance and the available Love Bag features require Couple Pro. One verified subscription also benefits the subscriber’s current, accepted partner. This does not merge accounts or turn on optional sharing. When a connection ends, the former partner loses inherited access; the subscriber keeps access until their subscription expires. Privacy controls, stopping sharing, account deletion and partner connection do not require Pro. Saved content is not deleted solely because access expires.
+
+Available plans, localized prices and billing periods are displayed before purchase. Purchases on iOS use Apple’s in-app purchase system. Subscriptions renew automatically unless cancelled through Apple’s subscription settings before renewal; deleting an account or uninstalling Couple does not cancel an Apple subscription. Cancellation stops future renewal, and access normally continues through the paid period. Refund requests are handled through Apple and applicable consumer rights remain unchanged. Restore purchases is available for eligible purchases.
+
+If store products are not available, Couple shows an unavailable state and does not start a payment. Test Store and sandbox transactions are not real charges and do not grant production access. These terms alone do not authorize a charge. There are no ad-unlocked features.
 
 ## Ending use
 
