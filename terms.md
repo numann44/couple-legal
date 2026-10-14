@@ -1,6 +1,6 @@
 # Couple Terms of Use
 
-Effective date: October 11, 2026
+Effective date: October 14, 2026
 
 Couple is developed by Ahmet Numan Şahin. Questions: **numanshn44@gmail.com**. These terms cover the Couple service and its iOS application. The [Privacy Policy](privacy.md) explains how information is handled.
 
@@ -30,7 +30,7 @@ Distance and the available Love Bag features require Couple Pro. One verified su
 
 Available plans, localized prices and billing periods are displayed before purchase. Purchases on iOS use Apple’s in-app purchase system. Subscriptions renew automatically unless cancelled through Apple’s subscription settings before renewal; deleting an account or uninstalling Couple does not cancel an Apple subscription. Cancellation stops future renewal, and access normally continues through the paid period. Refund requests are handled through Apple and applicable consumer rights remain unchanged. Restore purchases is available for eligible purchases.
 
-If store products are not available, Couple shows an unavailable state and does not start a payment. Test Store and sandbox transactions are not real charges and do not grant production access. These terms alone do not authorize a charge. There are no ad-unlocked features.
+If store products are not available, Couple shows an unavailable state and does not start a payment. Test Store and sandbox transactions are not real charges. Only explicitly authorized testing accounts may use verified Apple sandbox receipts to test access; synthetic Test Store receipts do not grant access to the production service. These terms alone do not authorize a charge. There are no ad-unlocked features.
 
 ## Ending use
 
