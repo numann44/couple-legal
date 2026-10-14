@@ -1,6 +1,6 @@
 # Couple Privacy Policy
 
-Effective date: October 11, 2026
+Effective date: October 14, 2026
 
 Couple is developed by Ahmet Numan Şahin. Contact: **numanshn44@gmail.com**. This policy describes the current Couple service and iOS application. Optional features have separate choices; connecting with someone does not give them control of your phone.
 
@@ -27,13 +27,13 @@ Location sharing is off by default and requires a verified partner connection, y
 
 Turning sharing off stops collection on that device and revokes server sharing when the request is confirmed. If you are offline, the app states that server confirmation is pending; a previously received current location expires under the 120-second freshness rule. Background sharing requires an additional choice and appropriate iOS permission, and is not guaranteed to update continuously. Unpairing and account deletion revoke partner location access.
 
-Phone status has its own sharing preference. When enabled, battery, charging and connection information may be sent to your current partner; updates over five minutes old are marked stale. This is not a screen-use history. Production route history and place alerts remain locked while subscription authorization is unavailable; locked features do not collect a route history.
+Phone status has its own sharing preference. When enabled, battery, charging and connection information may be sent to your current partner; updates over five minutes old are marked stale. This is not a screen-use history. Route history and place alerts require verified Pro access and separate choices. With your consent, your route points and reported visits are retained for up to seven days. You may choose up to five named places for your own location; arrival/departure notifications do not include exact addresses. Turning location sharing off removes your partner's access to your location history. Your own retained history can be deleted and otherwise expires after seven days. Locked features do not collect a route history.
 
 ## Widgets, Screen Time and our cat
 
 Widget design presets and supported preferences are stored on your signed-in account. Widgets on your own device receive only the summaries needed for their selected design, such as names, avatar images, relationship date, shared feeling, selected photo, battery summary and currently valid distance. Exact coordinates, birthdays, private diary entries and session tokens are not written to the widget shared data area.
 
-The optional personal Screen Time report uses Apple’s individual authorization and Device Activity report extension. The report stays on your device: usage measurements are not sent to Couple’s server, your partner or the widget data area. Apple authorization and device support are required. You can revoke authorization in the app or iOS settings.
+Personal Screen Time is not available in this distributed release. A separate development-only report uses Apple’s individual authorization and Device Activity report extension on a supported physical device. That report stays on the device: usage measurements are not sent to Couple’s server, a partner or the widget data area. Other widgets do not require Screen Time permission.
 
 If you adopt the shared cat, its name, feeding/petting times and resting state are stored for your active relationship. A new relationship does not inherit a previous relationship’s cat.
 
