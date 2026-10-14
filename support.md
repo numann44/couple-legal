@@ -29,10 +29,14 @@ In **Distance**, location sharing and phone status are separate choices. A partn
 
 ## Personal Screen Time
 
-The personal report requires Apple authorization and a supported physical device; the simulator does not provide a real usage report. Usage stays in the on-device report and is not sent to your partner or server. Availability also depends on Apple’s Family Controls entitlement approval for distributed builds. Other widgets do not require Screen Time permission.
+Personal Screen Time is not included in this distributed release. The separate development report requires Apple authorization and a supported physical device; the simulator does not provide a real usage report. Other widgets do not require Screen Time permission.
 
-## Features not available yet
+## Couple Pro and billing
 
-Purchases, subscription redemption and production Pro location history/place alerts are not open in this build. A preview or locked screen does not start a trial, subscription or charge. Plans has been removed from Love Bag.
+Distance and available Love Bag features require Couple Pro. One verified subscription covers the buyer and their current, accepted partner without merging accounts or enabling optional sharing. Available plans and local Apple prices appear before purchase. If products are temporarily unavailable, no payment starts.
+
+Use **Us → Account & Relationship → Couple Pro** to restore eligible purchases or open Apple subscription management. Subscriptions renew automatically unless cancelled in Apple settings. Deleting your account or uninstalling Couple does not cancel an Apple subscription. Refund requests are handled through Apple. Apple offer codes can be redeemed through the secure system sheet when an eligible code exists; Couple does not collect codes in a text box.
+
+History and place alerts need both verified Pro access and your separate sharing choices. A locked screen does not collect history. Plans has been removed from Love Bag. Test Store and Apple sandbox purchases are tests, not real charges.
 
 [Privacy Policy](privacy.md) · [Terms of Use](terms.md)
